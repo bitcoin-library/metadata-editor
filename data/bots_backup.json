@@ -1,0 +1,253 @@
+[
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/f631971e-ee83-4c95-9fcf-b1c1639bb4f6",
+    "checked": false,
+    "title": "Artikel",
+    "sk": "ffca2d661a4c980507226d7458962893aabf0331875eb9813a2a69612ce91720",
+    "pk": "7b7c5c4426d939780dd04cb473fdb125a8e1fc395fb761c985b8f3fd870dec10"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/818a0f8b-ef88-4630-a0e3-4150667b2ebc",
+    "checked": false,
+    "title": "Buch",
+    "sk": "a947fcd7aecade96383cda0c6b4d82578cdf316f81583dfa0ff8f2909e61dbb6",
+    "pk": "df702f7d60c37e4afe13648e1b0568d3742b446ff71fa3e602a1a8cac36b06ff"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/16975a1d-f6e2-48fe-af90-d89635494a6e",
+    "checked": false,
+    "title": "Podcast",
+    "sk": "0aa045d0a3927e8dd67d4cc6fbc26a1bd5138d108756c26e9273d551c1d5b876",
+    "pk": "89044bd49119751bb7c2ebc8f6fdd74f3cba368d4ddb62bdea0df45357f7a651"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/153ac02f-9423-4b2a-94e2-19ba25e5ab4e",
+    "checked": false,
+    "title": "Tutorial",
+    "sk": "e42126cef47f279153028a2f843fc7180cb29bb39d2e64c2c1e039fc1abff858",
+    "pk": "a3a1b3e44d20cc616c46b347dabc58de5cceee9ba008d00e47843b6104ae66ae"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/b6d8ffc6-b857-442f-bf4c-036b53ac6182",
+    "checked": false,
+    "title": "Video",
+    "sk": "b5c566f208f91229ee8cb2b59a2db566cf451b3c124730c89f39aa30c8bb7ab4",
+    "pk": "c0022f81326d8db71afa72c74fc2e5781abced8b0b95c39a961f9d5b64546c93"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/dfe92574-0500-44f0-84d7-7212badcdc07",
+    "title": "News",
+    "sk": "af2634b64e1cfe10093f7ca1096cfa1c7a859b533688f8915ab55b5bfc5a14a7",
+    "pk": "25f36bccf10a4258d638eb07c36a511a3f574f983b256b8986d76a43f68ade02"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/4e42c22d-0b45-4d8a-bb49-6d95d56e2558",
+    "title": "Allgemein Bitcoin",
+    "sk": "36236a03131d7ae0ed3df6db6710da3fe80eae802003640b96b7ee931ff24dd3",
+    "pk": "3b246f81aa43530010c71df243f2ebe176b8c7707e8ac72d3477f1940b07c8da"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/48f6aa45-6a14-476f-8dc4-ad8f012557ea",
+    "title": "Geld",
+    "sk": "6b2c7d525da56908b2ec7abd2c9da666739479a4ce0580a4f7fc90fcfcbc8797",
+    "pk": "a2c7c15e6b73968948bf450fe2576b64abd687283d3182dee78e927e5eb856a1"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/c6ecda65-17d5-4c90-8e50-bcdd2df418c7",
+    "title": "Interview",
+    "sk": "4273256b812bf7ceb3306811015f21f070854fe62403bd0efddd0d37405aec10",
+    "pk": "1ca6c4bdd68e74e6bb6eeecf769a21e2f8aa519e5c3330d20a00004afeee659f"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/4331f177-790b-432a-b44d-1e8c985caf6c",
+    "title": "Ökonomie",
+    "sk": "02e5e5b5d8a821978aab9e5b9f7d967a82ff3addc89fadde1e8c884135b8b636",
+    "pk": "8dbf43358bafc9e0fd4bc4b56cc19434ef87ea58fa693bb4b96629e1271960d0"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/04c98a63-f120-4ffa-ac70-d702368d5d78",
+    "title": "Artikel",
+    "sk": "7857b9da15afec8b8918e09005c5315a4d3793f0c8aff74cba31d2cde65e56b3",
+    "pk": "21d1c08ae7e02fb75d14d4d6e7061b6e37a1409e2eca44fad93c7d03b40b8a0c"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/d41061ee-8e61-4c75-8a69-f2a2616920c5",
+    "title": "Philosophie",
+    "sk": "f3b503371ea6d617c2cae40990bc0840c0337c4698f810fcfe24a2306a827970",
+    "pk": "7847a0f700d7e6317f7f37f112c0448c9ca99d7c0759c730250752d756b18c38"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/f215de5a-a141-43ca-874e-0e7a31631ad3",
+    "title": "Videos",
+    "sk": "0d099fb92ec5e05b2f5f78ea9c46b4d5b609f0713f3aa8f899ac1a4ce520b7a8",
+    "pk": "5ee1273bebe35c0771819dc1e71be9daa395510701fd3772578728636e650942"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/16461ce4-3435-4e25-a96b-193662914f18",
+    "title": "Technik",
+    "sk": "02def55bf7cea3c4d69bc013ec5d8733bf292bf2d2fd23a1c45539f104b2d65e",
+    "pk": "d3239efdf80ec29df716bfa8d2a596c29da2ba15f141da96ecf2c74f3498cf6e"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/1fbb4299-2358-4278-8b40-5daa11f99fd1",
+    "title": "Eigentum",
+    "sk": "c524dc0c8f8abe5b65cd9bbaec22075ef1a3ad92488dbe9832c6d0524b5ef4da",
+    "pk": "bb4f6465d1fc9e8278d1c5733a076a4e2240f37971a922c9e7fa0fba7cae1307"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/1fab6d8b-5356-4ff6-bb4e-a820232666c5",
+    "title": "Einsteiger",
+    "sk": "c1a40d314f77502fc0e8ff776a32d88e092b293780e64568c6e7541c8d6742e7",
+    "pk": "ce13b6d7905ae1e9757232819bb3a2a80cb769a4d7c804abf3436d1ff3967235"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/e4e0cdbe-0c46-4abb-a923-789b0e01fe80",
+    "title": "Fortgeschrittene",
+    "sk": "3e5f55feb3abe9eeab914bf2da9f57f97fb9e8be50bb376ec5096f3761f8aa6e",
+    "pk": "ed77f301f7304a5d1fc582364a4b8f12ca1313c4b9b4fa047788a1a04131a909"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/79749abf-3759-4087-aeb3-9e1de6fce10d",
+    "title": "Inflation",
+    "sk": "a4469ba4562a1fe60bf7e7fdb84e930cbf7c45d0f82abae7490d8c671af343b8",
+    "pk": "dccb4fb8228662d32217632b9c1007ded52266bd4defbed6944b1b81202efdbf"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/da19b8a0-5254-4f4e-9ded-577e701f09f6",
+    "title": "Steuern",
+    "sk": "0537f29c5e26d3f4ddb9e344b12c65d67ca4ff53722031a6559aad34772b126b",
+    "pk": "6194825f0326b8cac238c393771aca2f972f51c9e816255c6ce5f20c27ee8f1d"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/4b1758ed-44f2-466b-9618-c091fef15bc5",
+    "title": "Hyperbitcoinization",
+    "sk": "409d0a8a2c1ba4a0c40de2a9dbbc24a40379db9a77bd8613232427cb3d626eaf",
+    "pk": "f2d972f862333b36f217d998661a32e920d4a0f9287001297469431853481a68"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/6a9e4625-9e46-459a-b792-a9325c4e1b8b",
+    "title": "Gold",
+    "sk": "124a9586a86e31cf151f29c4fe2bfa0b6185472f0943de47e4d53143aa43f2b7",
+    "pk": "ce75675e7dd84f2a1512c9e2b5aae419147beee7e422cf7309a69382a2a05dab"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/4c698e5b-1beb-4557-8fdb-d659b9492e07",
+    "title": "OrangePill",
+    "sk": "78497dc4c4e726653e8ad55a6be0d88192a1fee261bc6ac727459a50c04b1c82",
+    "pk": "0da13dd02bd444cef8fe1de0ef7f2ad737335ef18aaa663f7c4675a2cf1fb8e8"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/01068810-0e22-4244-a411-71f418e9757a",
+    "title": "Zusammenstellung",
+    "sk": "8bab866c768eeec7ab7442d9997a2e6cbb36644f5fddd3e25eb5cfe047eb6791",
+    "pk": "14814a5b3708d8ad75e7ad84d5442c8547ad71fc1ef422e1ffdf9a4b46178e5e"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/3b8d08d5-f72b-4a3f-9e02-5b4c5dbdc5f1",
+    "title": "Kryptografie",
+    "sk": "5b8ddddba243d781fd925352fff4a08b2fd49501ccb23916cab8703726b14976",
+    "pk": "f4e79bc9906f09ae419a5febad87a4b73b69a3b9b5115c7ac2b562e8d77aea98"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/ba4a4b0e-328e-480b-b636-1e48be1706d5",
+    "title": "Eid der Maschinen",
+    "sk": "c746cc939b140502c726422359207b6561d3214f09e74f577b8e91d4b0696209",
+    "pk": "240b6fcd5ef4bb45883aae9b2f19a6794cb361767e3470a7cb4a203b0a673c03"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/c4b4faaf-66b6-4aae-a78b-eb719c3f5292",
+    "title": "Philosophie",
+    "sk": "723eece5ef1a96bc18eacec3a8f8259d71bfc9995a7b8185a041c6799eb86635",
+    "pk": "4a903fe5c5758468170c9f076300a872dfc818c9971b34cce228808da926b696"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/a28ae4a5-f3af-4a16-a162-4e86cfb74951",
+    "title": "Etatismus",
+    "sk": "cbd909f48d2216f9d4b3acf5bda0a0a5ac43e14928e59777d52371194c0bdc56",
+    "pk": "7d3eb4a20617c4eb43425e8857e3536785ca90c8ccc9e2031c8da3f13fa67f6d"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/c2490ef0-6ed2-4b4d-a1b3-16f305a4d5b3",
+    "title": "Kryptografie",
+    "sk": "561deae1b799896ad975725844210eb6e6e7a78d8307d1468b8bd2cef281de44",
+    "pk": "abe9b243c757ce2dcab536352573d1f23fb62dc14a07b4d5dac9e4d7b233ce0b"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/520593e2-fa3b-497a-98a7-ad764acc53fe",
+    "title": "kostenlos",
+    "sk": "1293d48c9237c0756d2eaaadd87544ed9f5a5b82e8b189a1ee81607f628c7a15",
+    "pk": "de3f62d54bc548147cf14cbe4db2e658c572e4499f95b20c02e723019db39294"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/ca9b64e9-5add-4464-a866-86655103327c",
+    "title": "V4V",
+    "sk": "0a82923a8494956bcee9aa32937249a1e6296d4533e5d3eeec8b6d2666805c67",
+    "pk": "445375fc4651d947a20054e288b6792e1ade83be13904bdd839045791a1ff8db"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/28f25009-5941-4aab-9d61-17193c075d9f",
+    "title": "Anlage",
+    "sk": "56af19facafa4b0aa7ab87b87948079ecdc7dccf9c0b8c701a873fff3f6097e5",
+    "pk": "66d5455ca2e5a5523aed13cb93e9310f8f9a1a6d315e905c5d1b1f28bfec1ba6"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/cc5915d6-c848-420d-9029-c4fe4973fe74",
+    "title": "Umwelt",
+    "sk": "ddc8ca455b012c39e816a69ea0f4e3d197b006e51923bd0957783509799bbb96",
+    "pk": "5769871ac559716ae3637346415bfdeb33d0c7687e9e2075bab47ae67e2441c1"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/71809a67-eef7-4246-bf72-50b776ca3192",
+    "title": "Attacken",
+    "sk": "3bced3faa53cb085699b5866f9939fcb779a6acb0d594e771f7f63f5b52e946a",
+    "pk": "e8d323acb06838ea0de6bbdd72b58b1032ed1a7a9c4806c38fe8e3899635de31"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/a5f03419-2d62-4cdb-9ae2-1d15cbf99bbb",
+    "title": "Idee",
+    "sk": "8b46a9bf6bf8ce8b21108a23d60b5b35e973c4735b4de508e9bf206667973fc6",
+    "pk": "2e860ac93bdd78a0d3f9af7a447cdf0018fba9fc479ee4cd68724eb77ad064fb"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/822421ac-8b18-42c6-8be2-6cce577ca8d9",
+    "title": "Meme",
+    "sk": "de2d93715a781db004985fe5106badf10cb93594cf19d131fd7c04425c08ccd3",
+    "pk": "2b5f9b86c21a2c9a5c473ce3dbbd3f84ad6620967245b711f1afa388fa96cf15"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/4b898491-cfb0-41c2-a438-0778228600a0",
+    "title": "Schulung",
+    "sk": "484544b9de6fc893b5431e0f4bfa08c5aa8d53994977cc82f744b2d9a9422f2d",
+    "pk": "25298e4f4028caf0038ae6e06747cd471c84a35e0532b1efbe52f5bc9a4c06e2"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/cc71720d-dfeb-4d72-a028-910fd1ce95a9",
+    "title": "Africa",
+    "sk": "cab9d1e43ead7dba1351fd11592a6f3776d35d6400a43d605cb965f0ac309a5e",
+    "pk": "d651902bfb53df5104bb2723787e573f0bf6f3b2809d76153025154a26801b45"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/81536f7d-3193-4840-925f-bbc8b26d43c0",
+    "title": "Kinder",
+    "sk": "5b0ded2ad090b8810bfaf68debf077f185fbcac770eeb58b3f2df51d25d051a4",
+    "pk": "97e6e53200e1bee9406dd563a36f0532987262fa9a37fb4bbeda320b4593492e"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/96f55dc5-31ed-4bcc-8c1c-ed05757acf30",
+    "title": "Whitepaper",
+    "sk": "b4e41b5c407893d0eac9e481679c554a1d5eaff3a7a02ac55cdc91d33072c7f3",
+    "pk": "3cd869e3c25d0ffbd5bc7a7a35d4e646043b71a90bb801c442dc5ca78bc60ca0"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/b87cdc01-4cd8-4eb4-8ce5-ff727914a06c",
+    "title": "Etatismus",
+    "sk": "821e5dcbff00df03a7c1620a272539cad982e4d96ba84433f89b50ec2095f64f",
+    "pk": "598edf9e12627a5fea137d9d81044b45e2b4957d0ac4e07aa9cdafdccb10316d"
+  },
+  {
+    "id": "https://w3id.org/bitcoin-library/bots/b87cdc01-4cd8-4eb4-8ce5-ff7279144242",
+    "title": "Bitcoin Library",
+    "sk": "5695a5ab2e720cdff2dd84c87ab909e5ade4da76472d959f62eacaea439f9144",
+    "pK": "8af30833be407219d6a2d2a6a84d2cea7d3c212693090fcc2b110ca944c3a617"
+  }
+]
